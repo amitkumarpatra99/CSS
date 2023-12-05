@@ -1,0 +1,32 @@
+body{
+    background-color:antiquewhite;
+    background-image: url(" DP.jpg");
+    background-size:cover;
+}
+div{
+    height:100px;
+    width:100px;
+    background-color:aqua;
+    border:2px solid green;
+    display:inline-block;
+}
+#box1{
+   
+   background-color:black;
+   background-image: url("DP.jpg");
+   background-size: cover;
+}
+#box2{
+    background-color:blue;
+    background-image: url("DP.jpg");
+    background-size: contain;
+  
+}
+#box3{
+    position:sticky;
+  
+}
+#box4{
+    
+    background-color:rgb(135, 146, 64);
+}
