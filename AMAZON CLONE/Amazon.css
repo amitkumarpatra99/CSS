@@ -255,10 +255,6 @@ ul a {
     height: 100px;
     font-size: 0.7rem;
     text-align: center;
-
-    /* display:flex ;
-    justify-content: center;
-    align-items:center; */
 }
 
 .pages {
@@ -267,4 +263,5 @@ ul a {
 
 .copyright {
     margin-top: 5px;
+    
 }
