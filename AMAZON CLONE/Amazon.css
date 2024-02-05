@@ -19,7 +19,7 @@
 }
 
 .logo {
-    background-image: url(logo\ of\ am.png);
+    background-image: url(Logo\ of\ Amazon.png);
     background-size: cover;
     height: 50px;
     width: 100%;
@@ -125,6 +125,7 @@ span {
 
 .pannel-ops p {
     display: inline;
+
     margin-left: 15px;
 
 }
@@ -132,12 +133,13 @@ span {
 .pannel-ops {
     width: 70%;
     font-size: 0.85rem;
+    /* display: inline; */
 }
 
-.pannel-deals {
+.pannel-deals { 
     font-size: 0.9rem;
     font-weight: 700;
-}
+ } 
 
 /* HERO SECTION */
 .hero-section {
@@ -243,7 +245,7 @@ ul a {
 }
 
 .logo {
-    background-image: url(logo\ of\ am.png);
+    background-image: url(Logo\ of\ Amazon.png);
     background-size: cover;
     height: 50px;
     width: 100px;
@@ -263,5 +265,5 @@ ul a {
 
 .copyright {
     margin-top: 5px;
-    
+
 }
